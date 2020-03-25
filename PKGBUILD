@@ -5,6 +5,7 @@ pkgname=dracut-hook
 pkgver=0.4
 pkgrel=1
 pkgdesc="Install/remove hooks for dracut"
+url=https://dracut.wiki.kernel.org/index.php/Main_Page
 arch=('any')
 license=('BSD')
 depends=('dracut')
